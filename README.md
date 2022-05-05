@@ -19,3 +19,7 @@ For this project, our assignment (Timothy Beal and I) was to demonstate that we 
 #### Project 03: Modelling a Free-Fixed End Coupled Oscillator
 This project was demonstrating the use of ODE's to simulate coupled oscillators. To demonstrate this Timothy Beal were tasked with finding the eigenvalues and eigenvectors of the appropriate matrix and determine the frequencies and amplitudes of the normal modes. We visualized the normal modes with graphs and animating the model as it evolves. Our conditions for our oscillator was modeling 3 balls with a system with one free end and one end bound to a wall, and a system with both ends bounding to the wall.
 <br> https://github.com/JustinRicc/Computational-Physics-Research/blob/main/CoupledOscillators/CoupledOscillators.ipynb
+
+#### Final Project: Ant Trails
+For our final project, Timothy Beal and I decided to look into something a little different from what we've been learning to get a breathe of something else where we could apply what we learned. We looked into Agent-Based Modeling, and decided to model ant trails using Agent-Based Modeling. This steps away from what we are used to because Agent-Based Modeling is not based on convention code structures. You have an object a set of rules to follow to simualate and evaluate situations to gain a better understanding of what you are researching.
+https://github.com/JustinRicc/Computational-Physics-Research/blob/main/Ants/AntTrails.md
