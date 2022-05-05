@@ -12,7 +12,7 @@ The goal of the first project was to get an understanding of modeling with pytho
 The purpose of this was to demostrate the use of ODE's to solve a system and graphing the findings of these simulations. My partner Timothy Beal and I decided the model the motion of a rocket using Euler's method. We investigated what effect the mass of the rocket had on both the velocity and momentum of the rocket.
 <br> *drop link here*
 
-#### Project 02: 
+#### Project 02: Golf Clubs and how the Magnus Effect influence them
 For this project, our assignment (Timothy Beal and I) was to demonstate that we could model realistic projectile motion taking both drag and the Magnus Effect into effect. Both being sub-par golfers, we decided to model a golf ball being hit and flying through the air. We used data from the Trackman Golf Simulator to get the launch angle, spinrate, and launch velocity to model a 3-iron through pitching wedge hitting a golf ball.
 <br> https://github.com/JustinRicc/Computational-Physics-Research/blob/main/GolfSim/GolfBallSim.ipynb
 
