@@ -18,4 +18,4 @@ For this project, our assignment (Timothy Beal and I) was to demonstate that we 
 
 #### Project 03: 
 This project was demonstrating the use of ODE's to simulate coupled oscillators. To demonstrate this Timothy Beal were tasked with finding the eigenvalues and eigenvectors of the appropriate matrix and determine the frequencies and amplitudes of the normal modes. We visualized the normal modes with graphs and animating the model as it evolves. Our conditions for our oscillator was modeling 3 balls with a system with one free end and one end bound to a wall, and a system with both ends bounding to the wall.
-<br> *drop link here*
+<br> https://github.com/JustinRicc/Computational-Physics-Research/blob/main/CoupledOscillators/CoupledOscillators.ipynb
