@@ -6,7 +6,7 @@ This repository is a collection of my projects from Computional Physics at High 
 
 #### Project 00: Displacement of a ball in a Plinko Board
 The goal of the first project was to get an understanding of modeling with python in jupyter notebook and develop an understanding of how to explore a model and use it for research purposes. I decided to model a plinko board and explore if there is an average displacement that the ball had when being dropped from a random point and what effect kinetic energy loss had on that outcome.
-<br> *drop link here*
+<br> https://github.com/JustinRicc/Computational-Physics-Research/blob/main/PlinkoBoard/PlinkoBoard.ipynb
 
 #### Project 01: Modeling Rocket Motion
 The purpose of this was to demostrate the use of ODE's to solve a system and graphing the findings of these simulations. My partner Timothy Beal and I decided the model the motion of a rocket using Euler's method. We investigated what effect the mass of the rocket had on both the velocity and momentum of the rocket.
